@@ -1,0 +1,27 @@
+[
+    {
+        "question": "Vad är huvudstaden i Filippinerna?",
+        "options": ["Mbabane", "Manila", "Minsk"],
+        "answer": "Manila"
+    },
+    {
+        "question": "Vilket år började andra världskriget?",
+        "options": ["1939", "1941", "1945"],
+        "answer": "1939"
+    },
+    {
+        "question": "Vilka attackeraede World Trade Center",
+        "options": ["Bill Clinton", "George W. Bush", "Osama bin Laden"],
+        "answer": "Osama bin Laden"
+    },
+    {
+        "question": "Vad är den aktiva substancen i Cannabis?",
+        "options": ["THC", "CBD", "CBA"],
+        "answer": "THC"
+    },
+    {
+        "question": "Vilken ras är den som begår flest attacker i USA?",
+        "options": ["Pitbull", "Schäfer", "Rottweiler"],
+        "answer": "Pitbull"
+    }
+]

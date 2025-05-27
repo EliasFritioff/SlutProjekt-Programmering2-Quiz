@@ -1,0 +1,3 @@
+cd Programmering 2/Slut-Uppgift/quiz
+python server.py
+python client.py
