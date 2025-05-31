@@ -1,0 +1,15 @@
+C:\Users\elias.fritioff\QuizGame\Quizgame\bin\Debug\net8.0\QuizGame.exe
+C:\Users\elias.fritioff\QuizGame\Quizgame\bin\Debug\net8.0\QuizGame.deps.json
+C:\Users\elias.fritioff\QuizGame\Quizgame\bin\Debug\net8.0\QuizGame.runtimeconfig.json
+C:\Users\elias.fritioff\QuizGame\Quizgame\bin\Debug\net8.0\QuizGame.dll
+C:\Users\elias.fritioff\QuizGame\Quizgame\bin\Debug\net8.0\QuizGame.pdb
+C:\Users\elias.fritioff\QuizGame\Quizgame\obj\Debug\net8.0\QuizGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias.fritioff\QuizGame\Quizgame\obj\Debug\net8.0\QuizGame.AssemblyInfoInputs.cache
+C:\Users\elias.fritioff\QuizGame\Quizgame\obj\Debug\net8.0\QuizGame.AssemblyInfo.cs
+C:\Users\elias.fritioff\QuizGame\Quizgame\obj\Debug\net8.0\QuizGame.csproj.CoreCompileInputs.cache
+C:\Users\elias.fritioff\QuizGame\Quizgame\obj\Debug\net8.0\QuizGame.sourcelink.json
+C:\Users\elias.fritioff\QuizGame\Quizgame\obj\Debug\net8.0\QuizGame.dll
+C:\Users\elias.fritioff\QuizGame\Quizgame\obj\Debug\net8.0\refint\QuizGame.dll
+C:\Users\elias.fritioff\QuizGame\Quizgame\obj\Debug\net8.0\QuizGame.pdb
+C:\Users\elias.fritioff\QuizGame\Quizgame\obj\Debug\net8.0\QuizGame.genruntimeconfig.cache
+C:\Users\elias.fritioff\QuizGame\Quizgame\obj\Debug\net8.0\ref\QuizGame.dll
