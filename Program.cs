@@ -11,7 +11,7 @@ namespace QuizGame
             string name = Console.ReadLine();
 
             var player = new Player(name);
-            var questions = QuestionLoader.LoadFromFile("Data/Questions.json");
+            var questions = QuestionLoader.LoadFromFile("C:\Users\elias.fritioff\QuizGame\data\questions.json");
             var quiz = new Quiz(player, questions);
             quiz.Start();
         }
